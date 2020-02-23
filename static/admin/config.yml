@@ -130,7 +130,7 @@ collections:
           - { label: 'isPage', name: 'page', widget: 'hidden', default: true }
           - { label: 'Body', name: 'body', widget: 'markdown' }
 
-    #Pages (Portuguese)
+    #Pages (Czech)
     - name: 'pages-cz' # Used in routes, e.g., /admin/collections/blog
       label: 'Pages (Portuguese)' # Used in the UI
       folder: 'pages' # The path to the folder where the documents are stored
