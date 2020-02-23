@@ -19,27 +19,26 @@ const Footer = () => {
         <p>
           {aboutProject}{' '}
           <a
-            href="https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps"
+            href="https://www.instagram.com/_natalia_noov/"
             target="_blank"
           >
-            {seeMorePWA}
+            Instagram
           </a>
           .
         </p>
         <p>
           {maintainedBy}{' '}
           <a
-            href="https://twitter.com/_diogorodrigues"
-            target="_blank"
+            href="mailto:nataluska.novackova@gmail.com"
           >
-            @_diogorodrigues
+            @naty
           </a>
           . {contributeMessage}{' '}
           <a
-            href="https://github.com/diogorodrigues/iceberg-gatsby-multilang"
+            href="/Admin"
             target="_blank"
           >
-            Github
+            Blog
           </a>
           .
         </p>

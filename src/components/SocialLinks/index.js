@@ -4,26 +4,27 @@ import { Twitter } from 'styled-icons/boxicons-logos/Twitter';
 import { Github } from 'styled-icons/boxicons-logos/Github';
 
 import * as S from './styled';
+import { Facebook, Instagram } from 'styled-icons/boxicons-logos';
 
 const SocialLinks = () => {
   return (
     <S.SocialLinksList>
       <S.SocialLinksItem>
         <S.SocialLinksLink
-          href="https://github.com/diogorodrigues/iceberg-gatsby-multilang"
-          title="Github"
+          href="https://www.facebook.com/natalie.novackova.165"
+          title="facebook"
           target="_blank"
         >
-          <Github />
+          <Facebook />
         </S.SocialLinksLink>
       </S.SocialLinksItem>
       <S.SocialLinksItem>
         <S.SocialLinksLink
-          href="https://twitter.com/_diogorodrigues"
-          title="Twitter"
+          href="https://www.instagram.com/_natalia_noov/"
+          title="Instagram"
           target="_blank"
         >
-          <Twitter />
+          <Instagram />
         </S.SocialLinksLink>
       </S.SocialLinksItem>
     </S.SocialLinksList>
