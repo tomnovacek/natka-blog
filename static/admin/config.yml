@@ -1,8 +1,9 @@
 backend:
-    name: github
-    repo: tomnovacek/natka-blog
+    name: git-gateway
     branch: master
-    site_domain: https://4tlapky.netlify.com
+    accept_roles: #optional - accepts all users if left out
+      - admin
+      - editor
 
 publish_mode: editorial_workflow
 media_folder: 'static/assets/img'
@@ -34,13 +35,14 @@ collections:
                 widget: 'select',
                 options:
                     [
-                        'Markdown',
-                        'Javascript',
-                        'Images',
-                        'Gatsby',
-                        'Imagens',
-                        'Others',
-                        'Outros',
+                        'Psi',
+                        'Morčata',
+                        'Kočky',
+                        'Canicross',
+                        'Bikejøring',
+                        'Výživa',
+                        'Sport',
+                        'První pomoc',
                     ],
             }
           - {
