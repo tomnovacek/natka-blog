@@ -35,14 +35,14 @@ collections:
                 widget: 'select',
                 options:
                     [
-                        'Psi',
-                        'Morčata',
-                        'Kočky',
+                        'Dogs',
+                        'Guinea pigs',
+                        'Cats',
                         'Canicross',
                         'Bikejøring',
-                        'Výživa',
+                        'Food',
                         'Sport',
-                        'První pomoc',
+                        'First aid',
                     ],
             }
           - {
@@ -85,13 +85,14 @@ collections:
                 widget: 'select',
                 options:
                     [
-                        'Markdown',
-                        'Javascript',
-                        'Images',
-                        'Gatsby',
-                        'Imagens',
-                        'Others',
-                        'Outros',
+                        'Psi',
+                        'Morčata',
+                        'Kočky',
+                        'Canicross',
+                        'Bikejøring',
+                        'Výživa',
+                        'Sport',
+                        'První pomoc',
                     ],
             }
           - {
