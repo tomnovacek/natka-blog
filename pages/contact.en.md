@@ -5,4 +5,4 @@ page: true
 ---
 
 Contact me:
-mailto: nataluska.novackova@gmail.com
+mailto:nataluska.novackova@gmail.com

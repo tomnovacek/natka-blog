@@ -1,8 +1,8 @@
 backend:
     name: github
-    repo: diogorodrigues/iceberg-gatsby-multilang
+    repo: tomnovacek/natka-blog
     branch: master
-    site_domain: https://iceberg-gatsby-multilang.netlify.com/
+    site_domain: https://4tlapky.netlify.com
 
 publish_mode: editorial_workflow
 media_folder: 'static/assets/img'
@@ -59,13 +59,13 @@ collections:
             }
           - { label: 'Body', name: 'body', widget: 'markdown' }
 
-    #Posts (Portuguese)
-    - name: 'posts-pt' # Used in routes, e.g., /admin/collections/blog
-      label: 'Posts (Portuguese)' # Used in the UI
+    #Posts (Czech)
+    - name: 'posts-cz' # Used in routes, e.g., /admin/collections/blog
+      label: 'Posts (Czech)' # Used in the UI
       folder: 'blog' # The path to the folder where the documents are stored
       create: true # Allow users to create new documents in this collection
       slug: '{{year}}-{{month}}-{{day}}-{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
-      extension: 'pt.md'
+      extension: 'cz.md'
       format: frontmatter
       fields: # The fields for each document, usually in front matter
           - { label: 'Title', name: 'title', widget: 'string' }
@@ -128,12 +128,12 @@ collections:
           - { label: 'Body', name: 'body', widget: 'markdown' }
 
     #Pages (Portuguese)
-    - name: 'pages-pt' # Used in routes, e.g., /admin/collections/blog
+    - name: 'pages-cz' # Used in routes, e.g., /admin/collections/blog
       label: 'Pages (Portuguese)' # Used in the UI
       folder: 'pages' # The path to the folder where the documents are stored
       create: true # Allow users to create new documents in this collection
       slug: '{{slug}}' # Filename template, e.g., YYYY-MM-DD-title.md
-      extension: 'pt.md'
+      extension: 'cz.md'
       format: frontmatter
       fields: # The fields for each document, usually in front matter
           - { label: 'Title', name: 'title', widget: 'string' }
