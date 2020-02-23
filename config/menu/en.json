@@ -3,6 +3,7 @@
     { "name": "Home", "link": "/" },
     { "name": "About", "link": "/about" },
     { "name": "Blog", "link": "/blog" },
+    { "name": "Links", "link": "/links" },
     { "name": "Contact", "link": "/contact" }
   ]
 }
