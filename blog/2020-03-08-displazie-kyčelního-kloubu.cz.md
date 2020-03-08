@@ -1,10 +1,10 @@
 ---
 title: Displazie kyčelního kloubu
 description: 'Displasie popis, opatření, léčba, prevence'
-date: '2020-02-24 04:24:18'
-image: /assets/img/435_gca60b.jpg
+date: '2020-03-08 08:09:18'
+image: /assets/img/dysplazie-kycelniho-kloubu-u-psa.jpg
 category: Psi
-background: '#353b48'
+background: '#7d4cdb'
 ---
 # Dysplazie kyčelního kloubu (DDK)
 
@@ -17,6 +17,8 @@ Psy i feny jsou postiženi přibližně na stejném procentu.
 ## Hlavní roli hraje dědičnost
 
 Jde především o polygenní onemocnění (nejde jenom o jeden gen, ale jde o dědičnost závislou na více genech, proto závisí, v jaké míře se geny projeví u daného štěněte či psa.) DDK je ovlivňováno růstem kostí, výživou, ale také i o hormonálními vlivy. 
+
+![Chůze psa](/assets/img/dysplazie.jpg "Dysplazie se může projevit nečekaně")
 
 ## DDK u štěňat
 
@@ -36,13 +38,9 @@ a)	mladí psi od 3-12 měsících věku-nevyskočí do auta, problémy se schody
 
 b)	Staří psi-postupně strádající kyčle, mají stejný vznik potíží jako u mladých psů
 
-
-
 Existují dva typy diagnostiky
 
 a)	Klasická diagnostika-posoudí se RTG snímkem pod silnou anestezií
-
-
 
 A-	bez příznaků dysplazie
 
@@ -54,19 +52,11 @@ D-	střední dysplazie
 
 E-	těžká dysplazie
 
-
-
 Nevýhodou téhle diagnostiky je, že pokud vyšetřujeme staršího psa, nelze již účinně léčit
-
-
 
 b)	časná diagnostika-postižení jedinci se léčí pomocí terapie
 
 Jako u klasické diagnostiky se psy dají do hluboké anestezii, aby došlo k pořádné relaxaci svalů.
-
-
-
-
 
 ## Prevence
 
