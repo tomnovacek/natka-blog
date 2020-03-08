@@ -1,6 +1,6 @@
 ---
 title: Displazie kyčelního kloubu
-description: 'Displasie popis, opatření, léčba, prevence'
+description: 'Displazie popis, opatření, léčba, prevence'
 date: '2020-03-08 08:09:18'
 image: /assets/img/dysplazie-kycelniho-kloubu-u-psa.jpg
 category: Psi
@@ -18,7 +18,7 @@ Psy i feny jsou postiženi přibližně na stejném procentu.
 
 Jde především o polygenní onemocnění (nejde jenom o jeden gen, ale jde o dědičnost závislou na více genech, proto závisí, v jaké míře se geny projeví u daného štěněte či psa.) DDK je ovlivňováno růstem kostí, výživou, ale také i o hormonálními vlivy. 
 
-![Chůze psa](/assets/img/dysplazie.jpg "Dysplazie se může projevit nečekaně")
+![Chůze psa](/assets/img/dysplazie.jpg "Dysplazie se může projevit nečekaně ")
 
 ## DDK u štěňat
 
@@ -69,3 +69,13 @@ Jako u klasické diagnostiky se psy dají do hluboké anestezii, aby došlo k po
 •	Nepřetěžovat fyzicky psa
 
 •	Udělat vyšetření DDK u štěněte mezi 3.-4. měsícem věku
+
+
+
+## zdroje
+
+Dysplazie kyčelního kloubu: u psů \[online]. \[cit. 2020-03-08]. Dostupné z: https://www.vetlife.cz/dysplazie-kycelnich-kloubu/
+
+Dysplazie kyčelního kloubu: u psů \[online]. \[cit. 2020-03-08]. Dostupné z: https://www.alavis.cz/cs/smartblog/13_Dysplazie-ky%C4%8Deln%C3%ADch-kloub%C5%AF-u-ps%C5%AF.htm
+
+Dysplazie kyčelního kloubu: u psů \[online]. \[cit. 2020-03-08]. Dostupné z: http://www.vetcentrum.cz/stodulky/dkk/181/dysplazie-kycelniho-kloubu-dkk
