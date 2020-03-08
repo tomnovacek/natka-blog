@@ -58,6 +58,8 @@ b)	časná diagnostika-postižení jedinci se léčí pomocí terapie
 
 Jako u klasické diagnostiky se psy dají do hluboké anestezii, aby došlo k pořádné relaxaci svalů.
 
+![operace](/assets/img/dysplazie-kycelniho-kloubu.jpg "Německý ovčák po operaci DDK")
+
 ## Prevence
 
 •	Pořádný výběr rodičů s vyšetřením DDK
