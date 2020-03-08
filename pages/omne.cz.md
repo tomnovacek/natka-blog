@@ -7,7 +7,7 @@ page: true
 
 Jsem Natálie,
 
-Zajímám se o psy a celkově o domácí mazlíčky. choroby či nemoci, výchovu psů, výživu,... píšu hlavně z své zkušenosti z mého psa nebo jsem se dočetla v knize či na webu. Doma mám maďarského ohaře krátkosrstého Dianu z Králova dvora. Dělám s ní mushing (Canicross a bikejoring). Pro pobavení a spestření tréninku běháme agility. 
+Zajímám se o psy a celkově o domácí mazlíčky. choroby či nemoci, výchovu psů, výživu,... píšu hlavně ze své zkušenosti z mého psa nebo jsem se dočetla v knize či na webu. Doma mám maďarského ohaře krátkosrstého Dianu z Králova dvora. Dělám s ní mushing (Canicross a bikejoring). Pro pobavení a spestření tréninku běháme agility. 
 
 ### Proč sem píšu?
 
